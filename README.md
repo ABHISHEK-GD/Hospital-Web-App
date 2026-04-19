@@ -42,7 +42,7 @@
 
 5A Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/f9efc6cb2e606aa244a8efaddb102d0e0f251d55/5A.png
 
-5B Output Link - 
+5B Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/b4ac46af76382b4d2a43e49255d14e848ac7a45a/5B.png
 
 5C Output Link - 
 
