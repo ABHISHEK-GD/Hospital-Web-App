@@ -1,4 +1,4 @@
-1A Output link - https://github.com/user-attachments/assets/90ee6d2d-1bfe-4a4c-bd21-55381fdbae86 
+1A Output Link - https://github.com/user-attachments/assets/90ee6d2d-1bfe-4a4c-bd21-55381fdbae86 
 
 1B ->
 
@@ -24,7 +24,9 @@
 
 1C5 Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/d2477b0ec8123fb5682d4f22038236b8c3c07aa7/1C5.png
 
-2A Output link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/f67580bf90f5ee2efe71cf10b57bd880c43b6198/2A.png
+2A Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/f67580bf90f5ee2efe71cf10b57bd880c43b6198/2A.png
 
-2B Output link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/bdde2da1d60df9cfdc429cef486ed013ca797365/2B.png
+2B Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/bdde2da1d60df9cfdc429cef486ed013ca797365/2B.png
+
+3A Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/d59c8af8ff9a38e17e4b4a7af3dd40a34a218e6a/3A.png
 
