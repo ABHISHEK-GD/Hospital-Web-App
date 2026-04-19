@@ -44,6 +44,6 @@
 
 5B Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/b4ac46af76382b4d2a43e49255d14e848ac7a45a/5B.png
 
-5C Output Link - 
+5C Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/438a4200c892b01cd23b2a579fdc2acfce2ced26/5C.png
 
 5D Output Link - 
