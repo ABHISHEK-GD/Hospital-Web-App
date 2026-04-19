@@ -10,7 +10,7 @@
 
 1B5 Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/d28b06bb165d299e5b3f065b27c085912e749fb5/1B5.png
 
-1C1 Output Link - 
+1C1 Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/c214f1f605efafe8009db926a3097d5aeb0c8101/1C1.png
 
 1C2 Output Link - 
 
