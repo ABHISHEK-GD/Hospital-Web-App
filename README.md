@@ -1,6 +1,6 @@
 1A Output link - https://github.com/user-attachments/assets/90ee6d2d-1bfe-4a4c-bd21-55381fdbae86 
 
-1B :-
+1B ->
 
 1B1 Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/f144be520bec77f439e26d36c5235fd5b7a89f21/1B1.png
 
@@ -12,7 +12,7 @@
 
 1B5 Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/d28b06bb165d299e5b3f065b27c085912e749fb5/1B5.png
 
-1C :-
+1C ->
 
 1C1 Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/c214f1f605efafe8009db926a3097d5aeb0c8101/1C1.png
 
