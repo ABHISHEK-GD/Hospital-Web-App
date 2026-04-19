@@ -46,6 +46,6 @@
 
 6A Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/2f266be843a5ffcddbcb8000708ab916c3d7ec07/6A.jpg
 
-6B Output Link - 
+6B Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/18fd9c78395d5a21127c65a3002cf9c93731e9ad/6B.jpg
 
 6C Output Link - 
