@@ -52,4 +52,4 @@
 
 7A Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/17e0b3607901cc328937713fab3bae2b61a5abde/7A.jpg
 
-7B Output Link - 
+7B Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/bf2f302cf429df73ab06955a4e89423bc444b910/7B.jpg
