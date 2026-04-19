@@ -18,6 +18,6 @@
 
 1C4 Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/f0d7b1d82371e3dbee6899a7a2ebf6331850cb42/1C4.png
 
-1C5 Output Link - 
+1C5 Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/d2477b0ec8123fb5682d4f22038236b8c3c07aa7/1C5.png
 
 
