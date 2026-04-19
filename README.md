@@ -26,3 +26,5 @@
 
 2A Output link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/f67580bf90f5ee2efe71cf10b57bd880c43b6198/2A.png
 
+2B Output link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/bdde2da1d60df9cfdc429cef486ed013ca797365/2B.png
+
