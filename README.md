@@ -24,4 +24,5 @@
 
 1C5 Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/d2477b0ec8123fb5682d4f22038236b8c3c07aa7/1C5.png
 
+2A Output link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/f67580bf90f5ee2efe71cf10b57bd880c43b6198/2A.png
 
