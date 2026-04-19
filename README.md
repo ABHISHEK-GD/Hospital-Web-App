@@ -39,3 +39,11 @@
 4B Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/a1852c152246200ca32833481e1b3de96465f83b/4B.png
 
 4C Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/cbecfb9e757e6b6f5d1d8e63ce8f8ee5aafd5fac/4C.png
+
+5A Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/f9efc6cb2e606aa244a8efaddb102d0e0f251d55/5A.png
+
+5B Output Link - 
+
+5C Output Link - 
+
+5D Output Link - 
