@@ -6,6 +6,6 @@
 
 1B3 Output Link -https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/298e48b42d151247c596d87e265df576ef19d49f/1B3.png
 
-1B4 Output Link -
+1B4 Output Link -https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/f7f1833490eeae73694bb6febaa56bb19679d0a3/1B4.png
 
 1B5 Output Link -
