@@ -33,3 +33,5 @@
 3B Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/d8c5340100cd7d8171fc145ee9a8a7fc46b37994/3B.png
 
 3C Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/5ecd1ffcdc64e7681830fb4d28c6cc524bd0b4a3/3C.png
+
+4A Output Link -https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/2876a30d6d23a1a2c79abf4fe04adc89bde08c46/4A.png
