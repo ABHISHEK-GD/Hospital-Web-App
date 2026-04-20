@@ -62,4 +62,4 @@
 
 9B Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/3a9e72e7bbcdd2b2bcffe30743a35e3358c4c056/9B.jpeg
 
-9C Output Link - 
+9C Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/d9d0f4d377f9f5235f2c81189142bdf0f786d4e2/9C.jpeg
