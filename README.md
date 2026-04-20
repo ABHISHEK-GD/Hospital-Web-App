@@ -60,6 +60,6 @@
 
 9A Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/be1984b420d1ed6a0ba790e5ffecd3fea129ac62/9A.png
 
-9B Output Link - 
+9B Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/3a9e72e7bbcdd2b2bcffe30743a35e3358c4c056/9B.jpeg
 
 9C Output Link - 
