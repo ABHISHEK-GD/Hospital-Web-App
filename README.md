@@ -53,3 +53,13 @@
 7A Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/17e0b3607901cc328937713fab3bae2b61a5abde/7A.jpg
 
 7B Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/bf2f302cf429df73ab06955a4e89423bc444b910/7B.jpg
+
+8A Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/ddecdb669d25cc196f91aeeb873f4ff1dd6c41c7/8A.jpeg
+
+8B Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/d5785ed1d08dae9c260b2e9927bffb717aa4adcc/8B.jpeg
+
+9A Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/be1984b420d1ed6a0ba790e5ffecd3fea129ac62/9A.png
+
+9B Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/3a9e72e7bbcdd2b2bcffe30743a35e3358c4c056/9B.jpeg
+
+9C Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/d9d0f4d377f9f5235f2c81189142bdf0f786d4e2/9C.jpeg
