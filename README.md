@@ -56,7 +56,7 @@
 
 8A Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/ddecdb669d25cc196f91aeeb873f4ff1dd6c41c7/8A.jpeg
 
-8B Output Link - 
+8B Output Link - https://github.com/ABHISHEK-GD/Basics-of-Java-Programming/blob/d5785ed1d08dae9c260b2e9927bffb717aa4adcc/8B.jpeg
 
 9A Output Link - 
 
